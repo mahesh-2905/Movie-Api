@@ -1,17 +1,19 @@
+
 [
   {
-    "_id":"3",
+    "_id":"1",
     "name":"The New Scooby-Doo Movies",
     "ratings":"4.2",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp5355129.jpg",
                 "image":"https://image.ibb.co/f0hhZc/bp.jpg"
               }
             ],
     "release_date":"29 January 2018",
     "cost":"299",
     "overview":"As_ide from doubling the length of each episode, The New Scooby-Doo Movies differed from its predecessor in the addition of a rotating special guest star slot; each episode featured real-life celebrities or well known fictional characters joining the Mystery, Inc. gang in solving the mystery of the week. Some episodes, in particular the episodes guest-starring the characters from The Addams Family, Batman, and Jeannie, deviated from the established Scooby-Doo format of presenting criminals masquerading as supernatural beings by introducing real ghosts, witches, monsters, and other such characters into the plots.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/vf1aW1z437I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -31,22 +33,30 @@
                 "movietype":"3",
                 "name":"Fantasy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Joe Ruby Ken Spears",
+                      "Acotors":"",
+                      "Story_by": "Joe Ruby Ken Spears"
+                    }
+                  ]
   },
   {
-    "_id":"5",
-    "name":"Coco",
+    "_id":"2",
+    "name":"Coco-Pixar",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp2289072.jpg",
                 "image":"https://image.ibb.co/dQwWSx/coco.jpg"
               }
             ]
     ,
-    "release_date":"29 January 2018",
+    "release_date":"October 20, 2017",
     "cost":"299",
     "overview":"Disney-Pixar has repeatedly raised the bar of animated movies by telling stories that would appeal to children and adults alike. But their past couple of films seemed to miss that crucial element of storytelling, leading to some sub-par entries in their otherwise impressive catalogue. ‘Coco’ is an original tale, and a highly imaginative one at that, by writer/ co-director Adrian Molina.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Rvr68u6k5sI' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -70,21 +80,29 @@
                 "movietype":"7",
                 "name":"Family"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Lee Unkrich",
+                      "Acotors":"Anthony Gonzalez, Gael García Bernal,  Benjamin Bratt, Alanna Ubach",
+                      "Story_by": "Lee Unkrich, Jason Katz"
+                    }
+                  ]
   },
   {
-    "_id":"6",
+    "_id":"3",
     "name":"The Dark Knight Rises",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/xw3OmVM.jpg",
                 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbILuHTm8uG-SVPAdas8jTroJrVCRE44raQ&usqp=CAU"
               }
         ],
-    "release_date":"29 January 2018",
+    "release_date":"July 16, 2012",
     "cost":"299",
     "overview":"The film begins slowly with a murky plot and too many new characters, but builds to a sensational climax. The result, in Christopher Nolan's conclusion to his Batman trilogy, is an ambitious superhero movie with two surprises: It isn't very much fun, and it doesn't have very much Batman.",
+    "trailer":"<iframe width='873' height='364' src='https://www.youtube.com/embed/z5Humz3ONgk' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -108,21 +126,29 @@
                 "movietype":"2",
                 "name":"Adventure"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Christopher Nolan",
+                      "Acotors":"Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway",
+                      "Story_by": "Christopher Nolan,David S. Goyer."
+                    }
+                  ]
   },
   {
-    "_id":"9",
+    "_id":"4",
     "name":"Black and Blue",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp4802506.jpg",
                 "image":"https://lh3.googleusercontent.com/hZeJu8i-ScFS-wED3MoNq_rXsNB89yjaBaDyatiG6yXbhFRj9uQ4YBvlZh5l5ORXzXEbhkyh86g"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"September 21, 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/QCfSeVCr7ng' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -146,21 +172,29 @@
                 "movietype":"4",
                 "name":"Crime"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Deon Taylor",
+                      "Acotors":"Naomie Harris,Tyrese Gibson,Frank Grillo,Mike Colter",
+                      "Story_by": "Peter A. Dowling"
+                    }
+                  ]
   },
   {
-    "_id":"13",
+    "_id":"5",
     "name":"Jumanji: Welcome to the Jungle",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp2296578.jpg",
                 "image":"https://3.bp.blogspot.com/-qgKZoE6775s/WrXLXrkwLCI/AAAAAAAALkg/N7jNIoUHrdIq3KfpUiBr2rJpyKPEKRSWgCLcBGAs/s1600/jumanji%2Bheader.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"December 5, 2017",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/2QKg5SZ_35I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -196,21 +230,29 @@
                 "movietype":"9",
                 "name":"Comedy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Jake Kasdan",
+                      "Acotors":"Dwayne Johnson,Jack Black,Kevin Hart,Karen Gillan",
+                      "Story_by": "Chris McKenna"
+                    }
+                  ]
   },
   {
-    "_id":"14",
+    "_id":"6",
     "name":"Deadpool 2",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp2068821.jpg",
                 "image":"https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"May 10, 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/D86RtevtfrA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -238,21 +280,29 @@
                 "movietype":"9",
                 "name":"Comedy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "David Leitch",
+                      "Acotors":"Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison",
+                      "Story_by": "Rhett Reese,Paul Wernick,Ryan Reynolds"
+                    }
+                  ]
   },
   {
-    "_id":"19",
+    "_id":"7",
     "name":"Fantasy Island",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp5441041.jpg",
                 "image":"https://i.redd.it/31hv3k9fw5q41.png"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"February 14, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/a6O30nJ02PU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -280,21 +330,29 @@
                 "movietype":"3",
                 "name":"Fantasy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Jeff Wadlow",
+                      "Acotors":"Michael Peña,Maggie Q,Lucy Hale,Austin Stowell",
+                      "Story_by": "Jeff Wadlow,Chris Roach,Jillian Jacobs"
+                    }
+                  ]
   },
   {
-    "_id":"22",
-    "name":"Psycho 2020",
+    "_id":"8",
+    "name":"Psycho",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://venkatarangan.com/blog/wp-content/uploads/2020/01/Psycho-Tamil-Movie.jpg",
                 "image":"https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_274/post_16261955/thumb.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"24 January 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/SDZCXPBYHY0' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"3",
@@ -318,21 +376,29 @@
                 "movietype":"7",
                 "name":"Family"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Mysskin",
+                      "Acotors":"Udhayanidhi Stalin,Aditi Rao Hydari, Nithya Menen,Rajkumar Pitchumani",	
+                      "Story_by": "Mysskin"
+                    }
+                  ]
   },
   {
-    "_id":"23",
+    "_id":"9",
     "name":"Forensic",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://i2.wp.com/www.b4blaze.com/wp-content/uploads/2020/02/Forensic-Box-Office-Collection-Report-Review-and-Rating.jpg?fit=960%2C540&ssl=1?v=1582949375",
                 "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/forensic-et00124509-22-01-2020-02-26-31.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"28 February 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/H1SPT-NSGfQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -356,21 +422,29 @@
                 "movietype":"5",
                 "name":"Thriller"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Akhil Paul & Anas Khan‎",
+                      "Acotors":"Tovino Thomas,Mamta Mohandas",
+                      "Story_by": "Akhil Paul-Anas Khan"
+                    }
+                  ]
   },
   {
-    "_id":"32",
+    "_id":"10",
     "name":"Zombieland 2",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp3936860.jpg",
                 "image":"https://cosmicbook.news/images/zombieland-2-poster.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"9 October 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ZlW9yhUKlkQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -402,6 +476,13 @@
                 "movietype":"8",
                 "name":"Horror"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Ruben Fleischer",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Emma Stone, Breslin, Harrelson, Eisenberg"
+                    }
+                  ]
   }
 ]

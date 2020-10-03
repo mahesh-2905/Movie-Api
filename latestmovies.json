@@ -5,13 +5,14 @@
     "ratings":"4.5",
     "thumb":[
              {
-               "background":"",
+               "background":"https://wallpapercave.com/wp/wp4334624.jpg",
                "image":"https://image.ibb.co/f0hhZc/bp.jpg"
              }
             ],
     "release_date":"29 January 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/xjDjIWPwcPU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -35,21 +36,29 @@
                 "movietype":"3",
                 "name":"Fantasy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Ryan Coogler",
+                      "Acotors":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa",
+                      "Story_by": "Stan Lee, Jack Kirby"
+                    }
+                  ]
   },
   {
-    "_id":"7",
+    "_id":"2",
     "name":"The Drug King",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbhasYTG6FxWvcUmdqjinpLrPnRHcLYsjE0gGczYgCqUUSlGAjTbCoF8Hf-dHju3oZopGKFqhQsLhHxkoSJG6rr6NWgFxShmkjEJzGH6cZcck51SnnrSKyzBmdR8OA.jpg?r=306",
                 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoE0lWxX5LqKD0VneQvVH4wU1DzXev-x4BNA&usqp=CAU"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"December 19, 2018",
     "cost":"299",
     "overview":"A Korean drug smuggler is initiated into the drug trade and experiences a spectacular rise and fall set against the backdrop of Korea in 1970s. Set in 1970s Korea, Kang-ho Song plays real-life drug smuggler Lee Doo-sam.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/i7fxfyixMRA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -77,21 +86,29 @@
                 "movietype":"4",
                 "name":"Crime"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Woo Min-ho",
+                      "Acotors":"Song Kang-ho,Jo Jung-suk,Bae Doona",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
   },
   {
-    "_id":"10",
+    "_id":"3",
     "name":"Avengers: Infinity War",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp2405220.jpg",
                 "image":"https://lh3.googleusercontent.com/m8oCdMmUY6qvQQmB1H6aVf1CX9CmMqQdMXD_QHk1NTV48nagvcXpkSTSLmUsfhyr_uM"
               }
            ],
-    "release_date":"29 January 2018",
+    "release_date":"April 23, 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6ZfuNTqbHE8' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -123,21 +140,29 @@
                 "movietype":"3",
                 "name":"Fantasy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Anthony Russo,Joe Russo",
+                      "Acotors":"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans",
+                      "Story_by": "Christopher Markus,Stephen McFeely"
+                    }
+                  ]
   },
   {
-    "_id":"15",
+    "_id":"4",
     "name":"Bank Chor",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://i.ytimg.com/vi/vOe_xcq6JuI/hqdefault.jpg",
                 "image":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/07/05/585013-bankchormotionposter.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"16 June 2017",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/HPebM04vkTQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -157,21 +182,29 @@
                 "movietype":"9",
                 "name":"Comedy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Bumpy",
+                      "Acotors":"Riteish Deshmukh, Vivek Oberoi, Rhea Chakraborty,Baba Sehgal",
+                      "Story_by": "Baljeet Singh Marwah,Bumpy"
+                    }
+                  ]
   },
   {
-    "_id":"18",
+    "_id":"5",
     "name":"Bhaagamathie",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://www.25cineframes.com/images/gallery/2018/01/bhagmati-movie-hd-photos-stills/02-Bhagmati-Movie-HD-Photos-Stills-Aadhi-Pinisetty-Anushka-Shetty-Images-Gallery.jpg",
                 "image":"https://m.media-amazon.com/images/M/MV5BNmY4YWZiNGItYTAzZi00YzQ3LTg3YTMtZWI2ZjJmYTI5NGIyXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"26 January 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Aahj3atxdS4' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"3",
@@ -191,21 +224,29 @@
                 "movietype":"7",
                 "name":"Family"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "G. Ashok",
+                      "Acotors":"Anushka Shet,Jayaram,Unni Mukundan,Asha Sarath",
+                      "Story_by": "G.Ashok"
+                    }
+                  ]
   },
   {
-    "_id":"20",
+    "_id":"6",
     "name":"Aaviri",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://www.letsott.com/assets/uploads/posts/20200306021619_71848304.jpg",
                 "image":"https://static.toiimg.com/photo/71850614.cms?imgsize=47961"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"1 November 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ipz9oS-3YgA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"2",
@@ -225,21 +266,29 @@
                 "movietype":"8",
                 "name":"Horror"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Ravi Babu",
+                      "Acotors":"Ravi Babu,Neha Chauhan ",
+                      "Story_by": "Ravi Babu"
+                    }
+                  ]
   },
   {
-    "_id":"25",
+    "_id":"7",
     "name":"Extraction",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp6188511.jpg",
                 "image":"https://www.esquireme.com/public/styles/full_img/public/images/2020/05/07/d-unit-22349-r-1587662262.jpg?itok=U61Epj4k"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"April 24, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/L6P3nI6VnlY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -263,21 +312,29 @@
                 "movietype":"5",
                 "name":"Thriller"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Sam Hargrave",
+                      "Acotors":" Chris Hemsworth, Rudhraksh Jaiswal,Randeep Hooda,Golshifteh Farahani",	
+                      "Story_by": " Ande Parks,Joe Russo,Anthony Russo"	
+                    }
+                  ]
   },
   {
-    "_id":"27",
+    "_id":"8",
     "name":"A Flying Jatt",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp4507269.jpg",
                 "image":"https://upload.wikimedia.org/wikipedia/en/5/57/A_Flying_Jatt_poster.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"25 August 2016",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/1J9Z0qhKZqo' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -297,21 +354,29 @@
                 "movietype":"3",
                 "name":"Fantasy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Remo D'Souza",
+                      "Acotors":"Tiger Shroff,Jacqueline Fernandez,Nathan Jones",
+                      "Story_by": "Remo D'Souza"
+                    }
+                  ]
   },
   {
-    "_id":"29",
+    "_id":"9",
     "name":"The Lion King",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp4396428.jpg",
                 "image":"https://media.pitchfork.com/photos/5d10f77c17fa5eac7de51c28/1:1/w_1320,h_1320,c_limit/Lion-King.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"July 19, 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/7TavVZMewpY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -344,21 +409,29 @@
                 "name":"Comedy"
               }
               
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "Jon Favreau",
+                      "Acotors":"Donald Glover ,Seth Rogen Chiwetel, EjioforAlfre Woodard",
+                      "Story_by": "Jeff Nathanson"
+                    }
+                  ]
   },
   {
-    "_id":"30",
+    "_id":"10",
     "name":"Big Hero 6",
     "ratings":"4.5",
     "thumb":[
               {
-                "background":"",
+                "background":"https://wallpapercave.com/wp/wp1814636.jpg",
                 "image":"https://d.ecumenicalnews.com/full/6046/630-0/big-hero-6-by-disney.jpg"
               }
             ],
     "release_date":"29 January 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/z3biFxZIJOQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
                   {
                     "language":"1",
@@ -374,6 +447,13 @@
                 "movietype":"9",
                 "name":"Comedy"
               }
-           ]
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎ Don Hall, Chris Williams",
+                      "Acotors":"Rayn potter, Chris Williams, Scott Adist",
+                      "Story_by": "Don Hall, Chris Williams"
+                    }
+                  ]
   }
 ]

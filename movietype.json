@@ -1,37 +1,46 @@
 [
   {
+    "_id":"1",
     "movietype":"1",
     "name":"Action"
   },
   {
+    "_id":"2",
     "movietype":"2",
     "name":"Adventure"
   },
   {
+    "_id":"3",
     "movietype":"3",
     "name":"Fantasy"
   },
   {
+    "_id":"4",
     "movietype":"4",
     "name":"Crime"
   },
   {
+    "_id":"5",
     "movietype":"5",
     "name":"Thriller"
   },
   {
+    "_id":"6",
     "movietype":"6",
     "name":"Animation"
   },
   {
+    "_id":"7",
     "movietype":"7",
     "name":"Family"
   },
   {
+    "_id":"8",
     "movietype":"8",
     "name":"Horror"
   },
   {
+    "_id":"9",
     "movietype":"9",
     "name":"Comedy"
   }

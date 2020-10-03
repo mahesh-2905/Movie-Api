@@ -1,0 +1,107 @@
+const express = require('express');
+const mongo = require('mongodb');
+const bodyParser = require('body-parser');
+const cors = require('cors');
+
+const app = express();
+const MongoClient = mongo.MongoClient;
+const port = process.env.PORT || 8900;
+const db_url = "mongodb://localhost:27017";
+var db;
+
+app.use(cors());
+app.use(bodyParser.urlencoded({extended:true}));
+app.use(bodyParser.json());
+
+//Health check
+app.get('/healthcheck',(req,res)=>{
+    res.send("API is working");
+})
+
+//Movies List
+app.get('/movies',(req,res)=>{
+    var query = { };
+    if(req.query.rgt && req.query.rlt){
+        query = {ratings:{$gt:parseFloat(req.query.rgt),$lt:parseFloat(req.query.rlt)}};
+    }
+    else if(req.query.movietype){
+        query={"type.movietype":req.query.movietype};
+    }
+    else if(req.query.language){
+        query= {"languages.language":req.query.language};
+    }
+    else{
+        query={ };
+    }
+    db.collection('movies').find(query).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Latest movies List
+app.get('/latest',(req,res)=>{
+    db.collection('latestMovies').find({}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Upcoming movies List
+app.get('/upcoming',(req,res)=>{
+    db.collection('upcomingMovies').find({}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Movies type List
+app.get('/movietype',(req,res)=>{
+    db.collection('movieType').find({}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Movie details
+app.get('/movies/:id',(req,res)=>{
+    db.collection('movies').find({_id:req.params.id}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Get bookings
+app.get('/bookings',(req,res)=>{
+    db.collection('orders').find({}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Post Bookings
+app.post('/bookings',(req,res)=>{
+    var data = req.body;
+    db.collection('orders').insert(data,(err)=>{
+        if(err) throw err;
+        res.send("booking sucessfull");
+    });
+});
+
+//Deleting Bookings
+app.delete('/deletebookings',(req,res)=>{
+    var query = {_id:req.body._id};
+    db.collection('orders').remove(query,(err)=>{
+        if(err) throw err;
+        res.send('Booking canceled')
+    })
+})
+//Database connection
+MongoClient.connect(db_url,(err,connection)=>{
+    if(err) throw err;
+    db = connection.db('Movies');
+    app.listen(port,(err)=>{
+        if(err) throw err;
+        console.log(`Server running at the port no :${port}`);
+    });
+});
