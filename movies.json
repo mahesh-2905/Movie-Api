@@ -1,0 +1,1512 @@
+[
+  {
+    "_id":"1",
+    "name":"Black Panther",
+    "ratings":"4.5",
+    "thumb":[
+             {
+               "background":"https://wallpapercave.com/wp/wp4334624.jpg",
+               "image":"https://image.ibb.co/f0hhZc/bp.jpg"
+             }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/xjDjIWPwcPU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Ryan Coogler",
+                      "Acotors":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa",
+                      "Story_by": "Stan Lee, Jack Kirby"
+                    }
+                  ]
+  },
+  {
+    "_id":"2",
+    "name":"Teen Titans Go! To the Movies",
+    "ratings":"4.0",
+    "thumb": [
+               {
+                 "background":"https://wallpapercave.com/wp/wp3265413.jpg",
+                 "image":"https://image.ibb.co/f0hhZc/bp.jpg"
+               }
+             ],
+    "release_date":"29 December 2019",
+    "cost":"299",
+    "overview":"All the major DC superheroes are starring in their own films, all but the Teen Titans, so Robin is determined to remedy this situation by getting over his role as a s_idekick and becoming a movie star. Thus, with a few madcap _ideas and an inspirational song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/r9WhJyyTtqo' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"6",
+                "name":"Animation"
+              },     
+              {
+                "movietype":"7",
+                "name":"Family"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Aaron Horvath, Peter Rida Michail",
+                      "Acotors":"",
+                      "Story_by": "Peter Rida Michail; Peggy Regan"
+                    }
+                  ]
+  },
+  {
+    "_id":"3",
+    "name":"The New Scooby-Doo Movies",
+    "ratings":"4.2",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp5355129.jpg",
+                "image":"https://image.ibb.co/f0hhZc/bp.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"As_ide from doubling the length of each episode, The New Scooby-Doo Movies differed from its predecessor in the addition of a rotating special guest star slot; each episode featured real-life celebrities or well known fictional characters joining the Mystery, Inc. gang in solving the mystery of the week. Some episodes, in particular the episodes guest-starring the characters from The Addams Family, Batman, and Jeannie, deviated from the established Scooby-Doo format of presenting criminals masquerading as supernatural beings by introducing real ghosts, witches, monsters, and other such characters into the plots.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/vf1aW1z437I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"6",
+                "name":"Animation"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Joe Ruby Ken Spears",
+                      "Acotors":"",
+                      "Story_by": "Joe Ruby Ken Spears"
+                    }
+                  ]
+  },
+  {
+    "_id":"4",
+    "name":"Death Wish",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://c4.wallpaperflare.com/wallpaper/348/714/466/movie-death-wish-3-charles-bronson-wallpaper-preview.jpg",
+                "image":"https://image.ibb.co/f0hhZc/bp.jpg"
+              }
+            ],
+    "release_date":"24 July 1974",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/HzILu6yyA20' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"4",
+                "name":"Crime"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"5",
+    "name":"Coco-Pixar",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2289072.jpg",
+                "image":"https://image.ibb.co/dQwWSx/coco.jpg"
+              }
+            ]
+    ,
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"Disney-Pixar has repeatedly raised the bar of animated movies by telling stories that would appeal to children and adults alike. But their past couple of films seemed to miss that crucial element of storytelling, leading to some sub-par entries in their otherwise impressive catalogue. ‘Coco’ is an original tale, and a highly imaginative one at that, by writer/ co-director Adrian Molina.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Rvr68u6k5sI' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"6",
+    "name":"The Dark Knight Rises",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/xw3OmVM.jpg",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbILuHTm8uG-SVPAdas8jTroJrVCRE44raQ&usqp=CAU"
+              }
+        ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"The film begins slowly with a murky plot and too many new characters, but builds to a sensational climax. The result, in Christopher Nolan's conclusion to his Batman trilogy, is an ambitious superhero movie with two surprises: It isn't very much fun, and it doesn't have very much Batman.",
+    "trailer":"<iframe width='873' height='364' src='https://www.youtube.com/embed/z5Humz3ONgk' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"7",
+    "name":"The Drug King",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbhasYTG6FxWvcUmdqjinpLrPnRHcLYsjE0gGczYgCqUUSlGAjTbCoF8Hf-dHju3oZopGKFqhQsLhHxkoSJG6rr6NWgFxShmkjEJzGH6cZcck51SnnrSKyzBmdR8OA.jpg?r=306",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoE0lWxX5LqKD0VneQvVH4wU1DzXev-x4BNA&usqp=CAU"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"A Korean drug smuggler is initiated into the drug trade and experiences a spectacular rise and fall set against the backdrop of Korea in 1970s. Set in 1970s Korea, Kang-ho Song plays real-life drug smuggler Lee Doo-sam.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/i7fxfyixMRA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              },
+              {
+                "movietype":"4",
+                "name":"Crime"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"8",
+    "name":"Bad Boys For Life",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp5207289.jpg",
+                "image":"https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"Loaded up with action and a double helping of leading-man charisma, Bad Boys for Life reinvigorates this long-dormant franchise by playing squarely to its strengthsv.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/jKCj3XuPG8M' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"4",
+                "name":"Crime"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"9",
+    "name":"Black and Blue",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp4802506.jpg",
+                "image":"https://lh3.googleusercontent.com/hZeJu8i-ScFS-wED3MoNq_rXsNB89yjaBaDyatiG6yXbhFRj9uQ4YBvlZh5l5ORXzXEbhkyh86g"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/QCfSeVCr7ng' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"4",
+                "name":"Crime"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"10",
+    "name":"Avengers: Infinity War",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2405220.jpg",
+                "image":"https://lh3.googleusercontent.com/m8oCdMmUY6qvQQmB1H6aVf1CX9CmMqQdMXD_QHk1NTV48nagvcXpkSTSLmUsfhyr_uM"
+              }
+           ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6ZfuNTqbHE8' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"11",
+    "name":"Into the Woods",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp6905001.jpg",
+                "image":"https://images-na.ssl-images-amazon.com/images/I/81Zq1VpZY5L._SY550_.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='364' src='https://www.youtube.com/embed/7pjy5MK1X70' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              },
+              {
+                "movietype":"8",
+                "name":"Horror"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"12",
+    "name":"Captain America: First Avenger",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2500822.jpg",
+                "image":"https://vignette.wikia.nocookie.net/ironman/images/c/ca/P8205710_v_v8_aj.jpg/revision/latest?cb=20191202172249",
+                "release_date":"29 January 2018"
+              }
+            ],
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6y3oHJnfnjU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "langugae":"3",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"13",
+    "name":"Jumanji: Welcome to the Jungle",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2296578.jpg",
+                "image":"https://3.bp.blogspot.com/-qgKZoE6775s/WrXLXrkwLCI/AAAAAAAALkg/N7jNIoUHrdIq3KfpUiBr2rJpyKPEKRSWgCLcBGAs/s1600/jumanji%2Bheader.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/2QKg5SZ_35I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"4",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"14",
+    "name":"Deadpool 2",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2068821.jpg",
+                "image":"https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/D86RtevtfrA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"15",
+    "name":"Bank Chor",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://i.ytimg.com/vi/vOe_xcq6JuI/hqdefault.jpg",
+                "image":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/07/05/585013-bankchormotionposter.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/HPebM04vkTQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"16",
+    "name":"Men in Black: International",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp3867883.jpg",
+                "image":"https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/BV-WEb2oxLk' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"17",
+    "name":"Lost",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp3999806.jpg",
+                "image":"https://i.pinimg.com/originals/29/3c/2c/293c2c5483cca52ea503ed17fe3e87a9.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/KTu8iDynwNc' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"18",
+    "name":"Bhaagamathie",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://www.25cineframes.com/images/gallery/2018/01/bhagmati-movie-hd-photos-stills/02-Bhagmati-Movie-HD-Photos-Stills-Aadhi-Pinisetty-Anushka-Shetty-Images-Gallery.jpg",
+                "image":"https://m.media-amazon.com/images/M/MV5BNmY4YWZiNGItYTAzZi00YzQ3LTg3YTMtZWI2ZjJmYTI5NGIyXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Aahj3atxdS4' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"8",
+                "name":"Horror"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"19",
+    "name":"Fantasy Island",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp5441041.jpg",
+                "image":"https://i.redd.it/31hv3k9fw5q41.png"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/a6O30nJ02PU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"8",
+                "name":"Horror"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"20",
+    "name":"Aaviri",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://www.letsott.com/assets/uploads/posts/20200306021619_71848304.jpg",
+                "image":"https://static.toiimg.com/photo/71850614.cms?imgsize=47961"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ipz9oS-3YgA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"7",
+                "name":"Family"
+              },
+              {
+                "movietype":"8",
+                "name":"Horror"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"21",
+    "name":"Deep Blue Sea 3",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/745064685ebe80ad4cb72e84035781cd.png&quality=70&width=808",
+                "image":"https://m.media-amazon.com/images/M/MV5BNTI1YmU4NmItZTc4NC00NzA2LWJiMjYtMmE0Njg5M2U2N2VhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6aGSXlHFyC0' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"8",
+                "name":"Horror"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"22",
+    "name":"Psycho",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://venkatarangan.com/blog/wp-content/uploads/2020/01/Psycho-Tamil-Movie.jpg",
+                "image":"https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_274/post_16261955/thumb.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/SDZCXPBYHY0' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"4",
+                "name":"Crime"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"23",
+    "name":"Forensic",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://i2.wp.com/www.b4blaze.com/wp-content/uploads/2020/02/Forensic-Box-Office-Collection-Report-Review-and-Rating.jpg?fit=960%2C540&ssl=1?v=1582949375",
+                "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/forensic-et00124509-22-01-2020-02-26-31.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/H1SPT-NSGfQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"4",
+                "name":"Crime"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"24",
+    "name":"The Grudge",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp5127928.jpg",
+                "image":"https://images.moviesanywhere.com/32b17995ccea5ae2e3a792430551bf0d/f3f4cfd5-44ba-410d-bf4c-2a29352fc474.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/O2NKzO-fxwQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"8",
+                "name":"Horror"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"25",
+    "name":"Extraction",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp6188511.jpg",
+                "image":"https://www.esquireme.com/public/styles/full_img/public/images/2020/05/07/d-unit-22349-r-1587662262.jpg?itok=U61Epj4k"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/L6P3nI6VnlY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"26",
+    "name":"Underwater",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp2038654.jpg",
+                "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/underwater-et00121890-24-12-2019-12-18-33.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/jCFWEzIVILc' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"5",
+                "name":"Thriller"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"27",
+    "name":"A Flying Jatt",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp4507269.jpg",
+                "image":"https://upload.wikimedia.org/wikipedia/en/5/57/A_Flying_Jatt_poster.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/1J9Z0qhKZqo' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"6",
+                "name":"Animation"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"28",
+    "name":"tintin-movie",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp1054207.jpg",
+                "image":"https://gonewiththetwins.com/new/wp-content/uploads/2013/09/adventuresoftintin.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/xz3j8gKRUTg' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"6",
+                "name":"Animation"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Jon Favreau",
+                      "Acotors":"",
+                      "Story_by": ""
+                    }
+                  ]
+  },
+  {
+    "_id":"29",
+    "name":"The Lion King",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp4396428.jpg",
+                "image":"https://media.pitchfork.com/photos/5d10f77c17fa5eac7de51c28/1:1/w_1320,h_1320,c_limit/Lion-King.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/7TavVZMewpY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"3",
+                    "name":"Telugu"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+              
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Eli Roth",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Joe Carnahan."
+                    }
+                  ]
+  },
+  {
+    "_id":"30",
+    "name":"Big Hero 6",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp1814636.jpg",
+                "image":"https://d.ecumenicalnews.com/full/6046/630-0/big-hero-6-by-disney.jpg"
+              }
+            ],
+    "release_date":"29 January 2018",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/z3biFxZIJOQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"7",
+                "name":"Family"
+              },
+              {
+                "movietype":"9",
+                "name":"Comedy"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎ Don Hall, Chris Williams",
+                      "Acotors":"Rayn potter, Chris Williams, Scott Adist",
+                      "Story_by": "Don Hall, Chris Williams"
+                    }
+                  ]
+  },
+  {
+    "_id":"31",
+    "name":"BURN-E",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp1816224.jpg",
+                "image":"https://upload.wikimedia.org/wikipedia/en/7/7d/BURN-E_poster.jpg"
+              }
+            ],
+    "release_date":"18 November 2008",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ppfSPzbAQYc' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"3",
+                "name":"Fantasy"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Angus MacLane",
+                      "Acotors":"Jeff Garlin, Angus MacLane, Tessa Swigart",
+                      "Story_by": "Pixar"
+                    }
+                  ]
+  },
+  {
+    "_id":"32",
+    "name":"Zombieland 2",
+    "ratings":"4.5",
+    "thumb":[
+              {
+                "background":"https://wallpapercave.com/wp/wp3936860.jpg",
+                "image":"https://cosmicbook.news/images/zombieland-2-poster.jpg"
+              }
+            ],
+    "release_date":"9 October 2019",
+    "cost":"299",
+    "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
+    "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ZlW9yhUKlkQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "languages":[
+                  {
+                    "language":"1",
+                    "name":"English"
+                  },
+                  {
+                    "language":"2",
+                    "name":"Hindi"
+                  },
+                  {
+                    "language":"5",
+                    "name":"Korean"
+                  }
+                ],
+    "type":[
+              {
+                "movietype":"1",
+                "name":"Action"
+              },
+              {
+                "movietype":"2",
+                "name":"Adventure"
+              },
+              {
+                "movietype":"7",
+                "name":"Family"
+              },
+              {
+                "movietype":"8",
+                "name":"Horror"
+              }
+           ],
+    "description":[
+                    {
+                      "Director‎": "‎Ruben Fleischer",
+                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Story_by": "Emma Stone, Breslin, Harrelson, Eisenberg"
+                    }
+                  ]
+  }
+
+]
+
+
+
