@@ -194,7 +194,7 @@
               }
             ]
     ,
-    "release_date":"29 January 2018",
+    "release_date":"October 20, 2017",
     "cost":"299",
     "overview":"Disney-Pixar has repeatedly raised the bar of animated movies by telling stories that would appeal to children and adults alike. But their past couple of films seemed to miss that crucial element of storytelling, leading to some sub-par entries in their otherwise impressive catalogue. ‘Coco’ is an original tale, and a highly imaginative one at that, by writer/ co-director Adrian Molina.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Rvr68u6k5sI' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -224,9 +224,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Lee Unkrich",
+                      "Acotors":"Anthony Gonzalez, Gael García Bernal,  Benjamin Bratt, Alanna Ubach",
+                      "Story_by": "Lee Unkrich, Jason Katz"
                     }
                   ]
   },
@@ -240,7 +240,7 @@
                 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbILuHTm8uG-SVPAdas8jTroJrVCRE44raQ&usqp=CAU"
               }
         ],
-    "release_date":"29 January 2018",
+    "release_date":"July 16, 2012",
     "cost":"299",
     "overview":"The film begins slowly with a murky plot and too many new characters, but builds to a sensational climax. The result, in Christopher Nolan's conclusion to his Batman trilogy, is an ambitious superhero movie with two surprises: It isn't very much fun, and it doesn't have very much Batman.",
     "trailer":"<iframe width='873' height='364' src='https://www.youtube.com/embed/z5Humz3ONgk' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -270,12 +270,12 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "‎Christopher Nolan",
+                      "Acotors":"Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway",
+                      "Story_by": "Christopher Nolan,David S. Goyer."
                     }
                   ]
-  },
+  }, 
   {
     "_id":"7",
     "name":"The Drug King",
@@ -286,7 +286,7 @@
                 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoE0lWxX5LqKD0VneQvVH4wU1DzXev-x4BNA&usqp=CAU"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"December 19, 2018",
     "cost":"299",
     "overview":"A Korean drug smuggler is initiated into the drug trade and experiences a spectacular rise and fall set against the backdrop of Korea in 1970s. Set in 1970s Korea, Kang-ho Song plays real-life drug smuggler Lee Doo-sam.",
     "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/i7fxfyixMRA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -320,8 +320,8 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
+                      "Director‎": "‎Woo Min-ho",
+                      "Acotors":"Song Kang-ho,Jo Jung-suk,Bae Doona",
                       "Story_by": "Joe Carnahan."
                     }
                   ]
@@ -336,7 +336,7 @@
                 "image":"https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"January 17, 2020",
     "cost":"299",
     "overview":"Loaded up with action and a double helping of leading-man charisma, Bad Boys for Life reinvigorates this long-dormant franchise by playing squarely to its strengthsv.",
     "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/jKCj3XuPG8M' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -366,9 +366,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Adil & Bilall",
+                      "Acotors":"Will Smith,Martin Lawrence,Paola Núñe,Vanessa Hudgens",
+                      "Story_by": "Peter Craig,Joe Carnahan"
                     }
                   ]
   },
@@ -382,7 +382,7 @@
                 "image":"https://lh3.googleusercontent.com/hZeJu8i-ScFS-wED3MoNq_rXsNB89yjaBaDyatiG6yXbhFRj9uQ4YBvlZh5l5ORXzXEbhkyh86g"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"September 21, 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/QCfSeVCr7ng' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -412,9 +412,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "‎Deon Taylor",
+                      "Acotors":"Naomie Harris,Tyrese Gibson,Frank Grillo,Mike Colter",
+                      "Story_by": "Peter A. Dowling"
                     }
                   ]
   },
@@ -428,7 +428,7 @@
                 "image":"https://lh3.googleusercontent.com/m8oCdMmUY6qvQQmB1H6aVf1CX9CmMqQdMXD_QHk1NTV48nagvcXpkSTSLmUsfhyr_uM"
               }
            ],
-    "release_date":"29 January 2018",
+    "release_date":"April 23, 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6ZfuNTqbHE8' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -466,9 +466,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Anthony Russo,Joe Russo",
+                      "Acotors":"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans",
+                      "Story_by": "Christopher Markus,Stephen McFeely"
                     }
                   ]
   },
@@ -482,7 +482,7 @@
                 "image":"https://images-na.ssl-images-amazon.com/images/I/81Zq1VpZY5L._SY550_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"December 8, 2014",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='364' src='https://www.youtube.com/embed/7pjy5MK1X70' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -516,9 +516,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Rob Marshall",
+                      "Acotors":"Meryl Streep, Emily Blunt, James Corden Anna Kendrick",
+                      "Story_by": "James Lapine"  
                     }
                   ]
   },
@@ -530,7 +530,7 @@
               {
                 "background":"https://wallpapercave.com/wp/wp2500822.jpg",
                 "image":"https://vignette.wikia.nocookie.net/ironman/images/c/ca/P8205710_v_v8_aj.jpg/revision/latest?cb=20191202172249",
-                "release_date":"29 January 2018"
+                "release_date":"July 19, 2011"
               }
             ],
     "cost":"299",
@@ -570,9 +570,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Joe Johnston",
+                      "Acotors":"Chris Evans,Tommy Lee Jones,Hugo Weaving,Hayley Atwell",
+                      "Story_by": "Christopher Markus,Stephen McFeely"
                     }
                   ]
   },
@@ -586,7 +586,7 @@
                 "image":"https://3.bp.blogspot.com/-qgKZoE6775s/WrXLXrkwLCI/AAAAAAAALkg/N7jNIoUHrdIq3KfpUiBr2rJpyKPEKRSWgCLcBGAs/s1600/jumanji%2Bheader.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"December 5, 2017",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/2QKg5SZ_35I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -628,9 +628,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Jake Kasdan",
+                      "Acotors":"Dwayne Johnson,Jack Black,Kevin Hart,Karen Gillan",
+                      "Story_by": "Chris McKenna"
                     }
                   ]
   },
@@ -644,7 +644,7 @@
                 "image":"https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"May 10, 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/D86RtevtfrA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -678,9 +678,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "David Leitch",
+                      "Acotors":"Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison",
+                      "Story_by": "Rhett Reese,Paul Wernick,Ryan Reynolds"
                     }
                   ]
   },
@@ -694,7 +694,7 @@
                 "image":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/07/05/585013-bankchormotionposter.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"16 June 2017",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/HPebM04vkTQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -720,9 +720,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Bumpy",
+                      "Acotors":"Riteish Deshmukh, Vivek Oberoi, Rhea Chakraborty,Baba Sehgal",
+                      "Story_by": "Baljeet Singh Marwah,Bumpy"
                     }
                   ]
   },
@@ -736,7 +736,7 @@
                 "image":"https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"June 11, 2019 ",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/BV-WEb2oxLk' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -766,9 +766,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "F. Gary Gray",
+                      "Acotors":"Chris Hemsworth,Tessa Thompson,Rebecca Ferguson,Kumail Nanjiani",
+                      "Story_by": "Art Marcum,Matt Holloway"
                     }
                   ]
   },
@@ -782,7 +782,7 @@
                 "image":"https://i.pinimg.com/originals/29/3c/2c/293c2c5483cca52ea503ed17fe3e87a9.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"May 22, 2013",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/KTu8iDynwNc' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -816,9 +816,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "‎J. C. Chandor",
+                      "Acotors":"Robert Redford",
+                      "Story_by": "J. C. Chandor"
                     }
                   ]
   },
@@ -832,7 +832,7 @@
                 "image":"https://m.media-amazon.com/images/M/MV5BNmY4YWZiNGItYTAzZi00YzQ3LTg3YTMtZWI2ZjJmYTI5NGIyXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"26 January 2018",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/Aahj3atxdS4' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -858,9 +858,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "G. Ashok",
+                      "Acotors":"Anushka Shet,Jayaram,Unni Mukundan,Asha Sarath",
+                      "Story_by": "G.Ashok"
                     }
                   ]
   },
@@ -874,7 +874,7 @@
                 "image":"https://i.redd.it/31hv3k9fw5q41.png"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"February 14, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/a6O30nJ02PU' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -908,9 +908,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "‎Jeff Wadlow",
+                      "Acotors":"Michael Peña,Maggie Q,Lucy Hale,Austin Stowell",
+                      "Story_by": "Jeff Wadlow,Chris Roach,Jillian Jacobs"
                     }
                   ]
   },
@@ -924,7 +924,7 @@
                 "image":"https://static.toiimg.com/photo/71850614.cms?imgsize=47961"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"1 November 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/ipz9oS-3YgA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -950,9 +950,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Ravi Babu",
+                      "Acotors":"Ravi Babu,Neha Chauhan ",
+                      "Story_by": "Ravi Babu"
                     }
                   ]
   },
@@ -966,7 +966,7 @@
                 "image":"https://m.media-amazon.com/images/M/MV5BNTI1YmU4NmItZTc4NC00NzA2LWJiMjYtMmE0Njg5M2U2N2VhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"July 28, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/6aGSXlHFyC0' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -992,9 +992,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "John Pogue",
+                      "Acotors":"Tania Raymonde",
+                      "Story_by": "Dirk Blackman"
                     }
                   ]
   },
@@ -1008,7 +1008,7 @@
                 "image":"https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_274/post_16261955/thumb.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"24 January 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/SDZCXPBYHY0' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1038,9 +1038,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Mysskin",
+                      "Acotors":"Udhayanidhi Stalin,Aditi Rao Hydari, Nithya Menen,Rajkumar Pitchumani",	
+                      "Story_by": "Mysskin"
                     }
                   ]
   },
@@ -1054,7 +1054,7 @@
                 "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/forensic-et00124509-22-01-2020-02-26-31.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"28 February 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/H1SPT-NSGfQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1084,9 +1084,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Akhil Paul & Anas Khan‎",
+                      "Acotors":"Tovino Thomas,Mamta Mohandas",
+                      "Story_by": "Akhil Paul-Anas Khan"
                     }
                   ]
   },
@@ -1100,7 +1100,7 @@
                 "image":"https://images.moviesanywhere.com/32b17995ccea5ae2e3a792430551bf0d/f3f4cfd5-44ba-410d-bf4c-2a29352fc474.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"January 3, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/O2NKzO-fxwQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1130,9 +1130,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "‎Nicolas Pesce",
+                      "Acotors":" Andrea Riseborough, Demián Bichir,John Cho, Betty Gilpin",	
+                      "Story_by": " Nicolas Pesce,Jeff Buhler"	  
                     }
                   ]
   },
@@ -1146,7 +1146,7 @@
                 "image":"https://www.esquireme.com/public/styles/full_img/public/images/2020/05/07/d-unit-22349-r-1587662262.jpg?itok=U61Epj4k"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"April 24, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/L6P3nI6VnlY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1176,9 +1176,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Sam Hargrave",
+                      "Acotors":" Chris Hemsworth, Rudhraksh Jaiswal,Randeep Hooda,Golshifteh Farahani",	
+                      "Story_by": " Ande Parks,Joe Russo,Anthony Russo"	
                     }
                   ]
   },
@@ -1192,7 +1192,7 @@
                 "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/underwater-et00121890-24-12-2019-12-18-33.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"January 10, 2020",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/jCFWEzIVILc' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1218,9 +1218,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "William Eubank‎",
+                      "Acotors":"Kristen Stewart, Vincent Cassel,Jessica Henwick,John Gallagher Jr.",	
+                     "Story_by": " Brian Duffield"
                     }
                   ]
   },
@@ -1234,7 +1234,7 @@
                 "image":"https://upload.wikimedia.org/wikipedia/en/5/57/A_Flying_Jatt_poster.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"25 August 2016",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/1J9Z0qhKZqo' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1260,9 +1260,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Remo D'Souza",
+                      "Acotors":"Tiger Shroff,Jacqueline Fernandez,Nathan Jones",
+                      "Story_by": "Remo D'Souza"
                     }
                   ]
   },
@@ -1276,7 +1276,7 @@
                 "image":"https://gonewiththetwins.com/new/wp-content/uploads/2013/09/adventuresoftintin.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"23 October 2011",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/xz3j8gKRUTg' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1306,9 +1306,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Jon Favreau",
-                      "Acotors":"",
-                      "Story_by": ""
+                      "Director‎": "‎Steven Spielberg",
+                      "Acotors":"Jamie Bell Andy Serkis Daniel Craig",
+                      "Story_by": "Steven Moffat, Edgar Wright ,Joe Cornish"
                     }
                   ]
   },
@@ -1322,7 +1322,7 @@
                 "image":"https://media.pitchfork.com/photos/5d10f77c17fa5eac7de51c28/1:1/w_1320,h_1320,c_limit/Lion-King.jpg"
               }
             ],
-    "release_date":"29 January 2018",
+    "release_date":"July 19, 2019",
     "cost":"299",
     "overview":"At best it is a movie made with 90% green screen sequences but in reality it is a discombobulated mash of garbage that takes way too long to develop any story whatsoever and that storyline is as thin and weak as a nightclub whiskey, left stale overnight and re-poured.",
     "trailer":"<iframe width='873' height='363' src='https://www.youtube.com/embed/7TavVZMewpY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
@@ -1361,9 +1361,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Eli Roth",
-                      "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Joe Carnahan."
+                      "Director‎": "Jon Favreau",
+                      "Acotors":"Donald Glover ,Seth Rogen Chiwetel, EjioforAlfre Woodard",
+                      "Story_by": "Jeff Nathanson"
                     }
                   ]
   },
