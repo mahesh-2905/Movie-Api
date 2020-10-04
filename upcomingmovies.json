@@ -1,9 +1,8 @@
-
 [
   {
     "_id":"1",
     "name":"The New Scooby-Doo Movies",
-    "ratings":"4.2",
+    "ratings":4.2,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp5355129.jpg",
@@ -45,7 +44,7 @@
   {
     "_id":"2",
     "name":"Coco-Pixar",
-    "ratings":"4.5",
+    "ratings":3.5,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp2289072.jpg",
@@ -92,7 +91,7 @@
   {
     "_id":"3",
     "name":"The Dark Knight Rises",
-    "ratings":"4.5",
+    "ratings":4.0,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/xw3OmVM.jpg",
@@ -138,7 +137,7 @@
   {
     "_id":"4",
     "name":"Black and Blue",
-    "ratings":"4.5",
+    "ratings":3.0,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp4802506.jpg",
@@ -184,7 +183,7 @@
   {
     "_id":"5",
     "name":"Jumanji: Welcome to the Jungle",
-    "ratings":"4.5",
+    "ratings":4.6,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp2296578.jpg",
@@ -242,7 +241,7 @@
   {
     "_id":"6",
     "name":"Deadpool 2",
-    "ratings":"4.5",
+    "ratings":4.0,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp2068821.jpg",
@@ -292,7 +291,7 @@
   {
     "_id":"7",
     "name":"Fantasy Island",
-    "ratings":"4.5",
+    "ratings":4.1,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp5441041.jpg",
@@ -342,7 +341,7 @@
   {
     "_id":"8",
     "name":"Psycho",
-    "ratings":"4.5",
+    "ratings":3.8,
     "thumb":[
               {
                 "background":"https://venkatarangan.com/blog/wp-content/uploads/2020/01/Psycho-Tamil-Movie.jpg",
@@ -388,7 +387,7 @@
   {
     "_id":"9",
     "name":"Forensic",
-    "ratings":"4.5",
+    "ratings":3.9,
     "thumb":[
               {
                 "background":"https://i2.wp.com/www.b4blaze.com/wp-content/uploads/2020/02/Forensic-Box-Office-Collection-Report-Review-and-Rating.jpg?fit=960%2C540&ssl=1?v=1582949375",
@@ -434,7 +433,7 @@
   {
     "_id":"10",
     "name":"Zombieland 2",
-    "ratings":"4.5",
+    "ratings":4.6,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp3936860.jpg",

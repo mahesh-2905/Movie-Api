@@ -13,9 +13,17 @@ app.use(cors());
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
+// setting the type of template engine
+app.set('view engine','ejs');
+
 //Health check
 app.get('/healthcheck',(req,res)=>{
     res.send("API is working");
+});
+
+//API's List
+app.get('/',(req,res)=>{
+    res.render('index')
 })
 
 //Movies List
@@ -63,6 +71,14 @@ app.get('/movietype',(req,res)=>{
     });
 });
 
+//Movie Langugages list
+app.get('/movielang',(req,res)=>{
+    db.collection('movielang').find({}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
 //Movie details
 app.get('/movies/:id',(req,res)=>{
     db.collection('movies').find({_id:req.params.id}).toArray((err,result)=>{
@@ -73,7 +89,7 @@ app.get('/movies/:id',(req,res)=>{
 
 //Get bookings
 app.get('/bookings',(req,res)=>{
-    db.collection('orders').find({}).toArray((err,result)=>{
+    db.collection('bookings').find({}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
@@ -82,7 +98,7 @@ app.get('/bookings',(req,res)=>{
 //Post Bookings
 app.post('/bookings',(req,res)=>{
     var data = req.body;
-    db.collection('orders').insert(data,(err)=>{
+    db.collection('bookings').insert(data,(err)=>{
         if(err) throw err;
         res.send("booking sucessfull");
     });
@@ -91,7 +107,7 @@ app.post('/bookings',(req,res)=>{
 //Deleting Bookings
 app.delete('/deletebookings',(req,res)=>{
     var query = {_id:req.body._id};
-    db.collection('orders').remove(query,(err)=>{
+    db.collection('bookings').remove(query,(err)=>{
         if(err) throw err;
         res.send('Booking canceled')
     })

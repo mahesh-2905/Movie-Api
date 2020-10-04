@@ -2,7 +2,7 @@
   {
     "_id":"1",
     "name":"Black Panther",
-    "ratings":"4.5",
+    "ratings":4.5,
     "thumb":[
              {
                "background":"https://wallpapercave.com/wp/wp4334624.jpg",
@@ -39,16 +39,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Ryan Coogler",
+                      "Director‎":"‎Ryan Coogler",
                       "Acotors":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa",
-                      "Story_by": "Stan Lee, Jack Kirby"
+                      "Story_by":"Stan Lee, Jack Kirby"
                     }
                   ]
   },
   {
     "_id":"2",
     "name":"The Drug King",
-    "ratings":"4.5",
+    "ratings":3.4,
     "thumb":[
               {
                 "background":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbhasYTG6FxWvcUmdqjinpLrPnRHcLYsjE0gGczYgCqUUSlGAjTbCoF8Hf-dHju3oZopGKFqhQsLhHxkoSJG6rr6NWgFxShmkjEJzGH6cZcck51SnnrSKyzBmdR8OA.jpg?r=306",
@@ -65,7 +65,7 @@
                     "name":"English"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   },
                   {
@@ -89,16 +89,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Woo Min-ho",
+                      "Director‎":"‎Woo Min-ho",
                       "Acotors":"Song Kang-ho,Jo Jung-suk,Bae Doona",
-                      "Story_by": "Joe Carnahan."
+                      "Story_by":"Joe Carnahan."
                     }
                   ]
   },
   {
     "_id":"3",
     "name":"Avengers: Infinity War",
-    "ratings":"4.5",
+    "ratings":4.8,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp2405220.jpg",
@@ -143,16 +143,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Anthony Russo,Joe Russo",
+                      "Director‎":"Anthony Russo,Joe Russo",
                       "Acotors":"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans",
-                      "Story_by": "Christopher Markus,Stephen McFeely"
+                      "Story_by":"Christopher Markus,Stephen McFeely"
                     }
                   ]
   },
   {
     "_id":"4",
     "name":"Bank Chor",
-    "ratings":"4.5",
+    "ratings":3.9,
     "thumb":[
               {
                 "background":"https://i.ytimg.com/vi/vOe_xcq6JuI/hqdefault.jpg",
@@ -185,16 +185,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Bumpy",
+                      "Director‎":"Bumpy",
                       "Acotors":"Riteish Deshmukh, Vivek Oberoi, Rhea Chakraborty,Baba Sehgal",
-                      "Story_by": "Baljeet Singh Marwah,Bumpy"
+                      "Story_by":"Baljeet Singh Marwah,Bumpy"
                     }
                   ]
   },
   {
     "_id":"5",
     "name":"Bhaagamathie",
-    "ratings":"4.5",
+    "ratings":4,
     "thumb":[
               {
                 "background":"https://www.25cineframes.com/images/gallery/2018/01/bhagmati-movie-hd-photos-stills/02-Bhagmati-Movie-HD-Photos-Stills-Aadhi-Pinisetty-Anushka-Shetty-Images-Gallery.jpg",
@@ -227,16 +227,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "G. Ashok",
+                      "Director‎":"G. Ashok",
                       "Acotors":"Anushka Shet,Jayaram,Unni Mukundan,Asha Sarath",
-                      "Story_by": "G.Ashok"
+                      "Story_by":"G.Ashok"
                     }
                   ]
   },
   {
     "_id":"6",
     "name":"Aaviri",
-    "ratings":"4.5",
+    "ratings":3.8,
     "thumb":[
               {
                 "background":"https://www.letsott.com/assets/uploads/posts/20200306021619_71848304.jpg",
@@ -269,16 +269,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Ravi Babu",
+                      "Director‎":"Ravi Babu",
                       "Acotors":"Ravi Babu,Neha Chauhan ",
-                      "Story_by": "Ravi Babu"
+                      "Story_by":"Ravi Babu"
                     }
                   ]
   },
   {
     "_id":"7",
     "name":"Extraction",
-    "ratings":"4.5",
+    "ratings":3.5,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp6188511.jpg",
@@ -295,7 +295,7 @@
                     "name":"English"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   }
                 ],
@@ -315,16 +315,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Sam Hargrave",
+                      "Director‎":"Sam Hargrave",
                       "Acotors":" Chris Hemsworth, Rudhraksh Jaiswal,Randeep Hooda,Golshifteh Farahani",	
-                      "Story_by": " Ande Parks,Joe Russo,Anthony Russo"	
+                      "Story_by":" Ande Parks,Joe Russo,Anthony Russo"	
                     }
                   ]
   },
   {
     "_id":"8",
     "name":"A Flying Jatt",
-    "ratings":"4.5",
+    "ratings":3.0,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp4507269.jpg",
@@ -341,7 +341,7 @@
                     "name":"English"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   }
                 ],
@@ -357,16 +357,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Remo D'Souza",
+                      "Director‎":"Remo D'Souza",
                       "Acotors":"Tiger Shroff,Jacqueline Fernandez,Nathan Jones",
-                      "Story_by": "Remo D'Souza"
+                      "Story_by":"Remo D'Souza"
                     }
                   ]
   },
   {
     "_id":"9",
     "name":"The Lion King",
-    "ratings":"4.5",
+    "ratings":4.8,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp4396428.jpg",
@@ -412,16 +412,16 @@
            ],
     "description":[
                     {
-                      "Director‎": "Jon Favreau",
+                      "Director‎":"Jon Favreau",
                       "Acotors":"Donald Glover ,Seth Rogen Chiwetel, EjioforAlfre Woodard",
-                      "Story_by": "Jeff Nathanson"
+                      "Story_by":"Jeff Nathanson"
                     }
                   ]
   },
   {
     "_id":"10",
     "name":"Big Hero 6",
-    "ratings":"4.5",
+    "ratings":3.3,
     "thumb":[
               {
                 "background":"https://wallpapercave.com/wp/wp1814636.jpg",
@@ -450,9 +450,9 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎ Don Hall, Chris Williams",
+                      "Director‎":"‎ Don Hall, Chris Williams",
                       "Acotors":"Rayn potter, Chris Williams, Scott Adist",
-                      "Story_by": "Don Hall, Chris Williams"
+                      "Story_by":"Don Hall, Chris Williams"
                     }
                   ]
   }
