@@ -49,7 +49,7 @@ app.get('/movies',(req,res)=>{
 
 //Latest movies List
 app.get('/latest',(req,res)=>{
-    db.collection('latestMovies').find({}).toArray((err,result)=>{
+    db.collection('latestmovies').find({}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
@@ -57,7 +57,7 @@ app.get('/latest',(req,res)=>{
 
 //Upcoming movies List
 app.get('/upcoming',(req,res)=>{
-    db.collection('upcomingMovies').find({}).toArray((err,result)=>{
+    db.collection('upcomingmovies').find({}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
