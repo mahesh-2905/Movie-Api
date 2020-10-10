@@ -6,7 +6,7 @@ const cors = require('cors');
 const app = express();
 const MongoClient = mongo.MongoClient;
 const port = process.env.PORT || 8900;
-const db_url = "mongodb://localhost:27017";
+const db_url = "mongodb+srv://Mahesh290501:Mahesh290501@cluster0.qmby2.mongodb.net/Movies?retryWrites=true&w=majority";
 var db;
 
 app.use(cors());
