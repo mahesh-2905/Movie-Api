@@ -10,7 +10,7 @@
               }
             ],
     "release_date":"29 January 2018",
-    "cost":"299",
+    "cost":"199",
     "overview":"As_ide from doubling the length of each episode, The New Scooby-Doo Movies differed from its predecessor in the addition of a rotating special guest star slot; each episode featured real-life celebrities or well known fictional characters joining the Mystery, Inc. gang in solving the mystery of the week. Some episodes, in particular the episodes guest-starring the characters from The Addams Family, Batman, and Jeannie, deviated from the established Scooby-Doo format of presenting criminals masquerading as supernatural beings by introducing real ghosts, witches, monsters, and other such characters into the plots.",
     "trailer":"<iframe width='855' height='481' src='https://www.youtube.com/embed/vf1aW1z437I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "languages":[
@@ -35,11 +35,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Joe Ruby Ken Spears",
+                      "Director‎":"‎Joe Ruby Ken Spears",
                       "Acotors":"",
-                      "Story_by": "Joe Ruby Ken Spears"
+                      "Story_by":"Joe Ruby Ken Spears"
                     }
-                  ]
+                  ],
+        "cast":[
+                    {
+                      "name":"Frank Welker ",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frank_Welker_Photo_Op_GalaxyCon_Richmond_2020.jpg/220px-Frank_Welker_Photo_Op_GalaxyCon_Richmond_2020.jpg "
+                    },
+                    {
+                      "name":"Don Messick",
+                      "thumb":"https://m.media-amazon.com/images/M/MV5BMzYxMmQ2MTItZGE4OC00Y2RkLTlmYTYtYTJlYTg0NzY2ZDc4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY1200_CR66,0,630,1200_AL_.jpg"
+                    },
+                    {
+                      "name":" Casey Kasem ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/10939/10939_v9_ba.jpg"
+                    },{
+                      "name":"Heather North",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Heather_North_in_Gidget_1965.jpg"
+                    }
+                ]
   },
   {
     "_id":"2",
@@ -82,12 +99,29 @@
            ],
     "description":[
                     {
-                      "Director‎": "Lee Unkrich",
+                      "Director‎":"Lee Unkrich",
                       "Acotors":"Anthony Gonzalez, Gael García Bernal,  Benjamin Bratt, Alanna Ubach",
-                      "Story_by": "Lee Unkrich, Jason Katz"
+                      "Story_by":"Lee Unkrich, Jason Katz"
+                    }
+                  ],
+          "cast":[
+                    {
+                      "name":"Anthony Gonzalez ",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/2/25/Anthony_Gonzales_on_Dulce_Osuna.jpg "
+                    },
+                    {
+                      "name":"Gael García Bernal",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/163723/163723_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Benjamin Bratt ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/71133/71133_v9_bb.jpg"
+                    },{
+                      "name":"Alanna Ubach",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/68907/68907_v9_bb.jpg"
                     }
                   ]
-  },
+  }, 
   {
     "_id":"3",
     "name":"The Dark Knight Rises",
@@ -108,7 +142,7 @@
                     "name":"English"
                   },
                   {
-                    "language":"5",
+                    "language":"2",
                     "name":"Hindi"
                   },
                   {
@@ -128,12 +162,29 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Christopher Nolan",
+                      "Director‎":"‎Christopher Nolan",
                       "Acotors":"Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway",
-                      "Story_by": "Christopher Nolan,David S. Goyer."
+                      "Story_by":"Christopher Nolan,David S. Goyer."
                     }
-                  ]
-  },
+                  ],
+          "cast":[
+                    {
+                        "name":"Tom Hardy",
+                        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Hardy_by_Gage_Skidmore.jpg/220px-Tom_Hardy_by_Gage_Skidmore.jpg"
+                    },
+                    {
+                      "name":"Anne Hathaway",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anne_Hathaway_in_2017.png/220px-Anne_Hathaway_in_2017.png"
+                    },
+                    {
+                      "name":"Joseph Gordon-Levitt",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg/235px-Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg"
+                    },{
+                      "name":"Marion Cotillard",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Marion_Cotillard_C%C3%A9sar_2018.jpg/220px-Marion_Cotillard_C%C3%A9sar_2018.jpg"
+                    }
+                 ]
+  }, 
   {
     "_id":"4",
     "name":"Black and Blue",
@@ -174,11 +225,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Deon Taylor",
+                      "Director‎":"‎Deon Taylor",
                       "Acotors":"Naomie Harris,Tyrese Gibson,Frank Grillo,Mike Colter",
-                      "Story_by": "Peter A. Dowling"
+                      "Story_by":"Peter A. Dowling"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Naomie Harris ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/265396/265396_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Tyrese Gibson",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/200301/200301_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Frank Grillo",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/257236/257236_v9_ba.jpg"
+                    },{
+                      "name":"Mike Colter",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/259205/259205_v9_bc.jpg"
+                    }
+                 ]
   },
   {
     "_id":"5",
@@ -232,11 +300,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "Jake Kasdan",
+                      "Director‎":"Jake Kasdan",
                       "Acotors":"Dwayne Johnson,Jack Black,Kevin Hart,Karen Gillan",
-                      "Story_by": "Chris McKenna"
+                      "Story_by":"Chris McKenna"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Dwayne Johnson",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/235135/235135_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Karen Gillan",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/572089/572089_v9_bc.jpg"
+                    },
+                    {
+                      "name":"Kevin Hart",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/108359/108359_v9_bc.jpg"
+                    },{
+                      "name":"Jack Black",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/71804/71804_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"6",
@@ -262,7 +347,7 @@
                     "name":"Hindi"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   }
                 ],
@@ -282,11 +367,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "David Leitch",
+                      "Director‎":"David Leitch",
                       "Acotors":"Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison",
-                      "Story_by": "Rhett Reese,Paul Wernick,Ryan Reynolds"
+                      "Story_by":"Rhett Reese,Paul Wernick,Ryan Reynolds"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Ryan Reynolds ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/57282/57282_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Josh Brolin",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/74371/74371_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Zazie Beetz",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/66/Zazie_Beetz_by_Gage_Skidmore_%28cropped%29.jpg"
+                    },{
+                      "name":"Morena Baccarin",
+                      "thumb":"https://static.wikia.nocookie.net/ocwikia/images/d/d3/Morena_Baccarin.jpg/revision/latest?cb=20200421081704"
+                    }
+                 ]
   },
   {
     "_id":"7",
@@ -308,7 +410,7 @@
                     "name":"English"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   },
                   {
@@ -332,11 +434,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Jeff Wadlow",
+                      "Director‎":"‎Jeff Wadlow",
                       "Acotors":"Michael Peña,Maggie Q,Lucy Hale,Austin Stowell",
-                      "Story_by": "Jeff Wadlow,Chris Roach,Jillian Jacobs"
+                      "Story_by":"Jeff Wadlow,Chris Roach,Jillian Jacobs"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Lucy Hale ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/499956/499956_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Michael Peña",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/208373/208373_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Maggie Q",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/253322/253322_v9_ba.jpg"
+                    },{
+                      "name":"Austin Stowell",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/589455/589455_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"8",
@@ -378,11 +497,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "Mysskin",
+                      "Director‎":"Mysskin",
                       "Acotors":"Udhayanidhi Stalin,Aditi Rao Hydari, Nithya Menen,Rajkumar Pitchumani",	
-                      "Story_by": "Mysskin"
+                      "Story_by":"Mysskin"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Udhayanidhi Stalin",
+                        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Udhaya.jpg/220px-Udhaya.jpg "
+                    },
+                    {
+                      "name":"Aditi Rao Hydari",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aditi_Rao_Hydari_on_NDTV%E2%80%99s_show_%E2%80%98Ticket_To_Bollywood%E2%80%99.jpg/220px-Aditi_Rao_Hydari_on_NDTV%E2%80%99s_show_%E2%80%98Ticket_To_Bollywood%E2%80%99.jpg"
+                    },
+                    {
+                      "name":"Nithya Menen",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nithya_Menen_at_SIIMA_2016.jpg/800px-Nithya_Menen_at_SIIMA_2016.jpg"
+                    },{
+                      "name":"Rajkumar Pitchumani",
+                      "thumb":"https://www.behindwoods.com/tamil-movies-cinema-news-16/images/mysskin-s-psycho-villain-rajkumar-pitchumani-reveals-unknown-shoot-stories-ft-udhayanidhi-photos-pictures-stills.jpg"
+                    }
+                 ]
   },
   {
     "_id":"9",
@@ -424,11 +560,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "Akhil Paul & Anas Khan‎",
+                      "Director‎":"Akhil Paul & Anas Khan‎",
                       "Acotors":"Tovino Thomas,Mamta Mohandas",
-                      "Story_by": "Akhil Paul-Anas Khan"
+                      "Story_by":"Akhil Paul-Anas Khan"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Mamtha Mohandas ",
+                        "thumb":"https://static.toiimg.com/thumb/61415750.cms?width=170&height=240 "
+                    },
+                    {
+                      "name":"Reba Monica John",
+                      "thumb":"https://nettv4u.com/imagine/24-07-2019/reba-monica-john.jpg"
+                    },
+                    {
+                      "name":"Tovino Thomas",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg"
+                    },{
+                      "name":"Giju John",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Giju_John.jpg"
+                    }
+                 ]
   },
   {
     "_id":"10",
@@ -454,7 +607,7 @@
                     "name":"Hindi"
                   },
                   {
-                    "language":"5",
+                    "language":"4",
                     "name":"Korean"
                   }
                 ],
@@ -478,10 +631,28 @@
            ],
     "description":[
                     {
-                      "Director‎": "‎Ruben Fleischer",
+                      "Director‎":"‎Ruben Fleischer",
                       "Acotors":"Bruce Wills, Camila, Shune",
-                      "Story_by": "Emma Stone, Breslin, Harrelson, Eisenberg"
+                      "Story_by":"Emma Stone, Breslin, Harrelson, Eisenberg"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Emma Stone",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/501536/501536_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Abigail Breslin",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/259171/259171_v9_fa.jpg"
+                    },
+                    {
+                      "name":"Woody Harrelson",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/733/733_v9_bc.jpg"
+                    },{
+                      "name":"Jesse Eisenberg",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/205764/205764_v9_ba.jpg"
+                    }
+                 ]
   }
+
 ]

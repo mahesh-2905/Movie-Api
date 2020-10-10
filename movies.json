@@ -44,7 +44,25 @@
                       "Acotors":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa",
                       "Story_by":"Stan Lee, Jack Kirby"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                      "name":"Chadwick Boseman",
+                      "thumb":"https://wallpapercave.com/wp/wp2509009.jpg"
+                    },
+                    {
+                      "name":"Michael B. Jordan ",
+                      "thumb":"https://wallpapercave.com/wp/wp2143714.jpg"
+                    },
+                    {
+                      "name":"Letitia Wright ",
+                      "thumb":"https://wallpapercave.com/wp/wp2394645.jpg "
+                    },
+                    {
+                      "name":"Danai Gurira ",
+                      "thumb":"https://wallpapercave.com/wp/wp3878348.jpg "
+                    }
+            ]
   },
   {
     "_id":"2",
@@ -94,7 +112,24 @@
                       "Acotors":"",
                       "Story_by":"Peter Rida Michail; Peggy Regan"
                     }
-                  ]
+                  ],
+        "caste":[
+                  {
+                    "name":"Tara Strong",
+                    "thumb":"https://cdn.hipwallpaper.com/m/20/99/py0Aku.jpg"
+                  },
+                  {
+                    "name":"Greg Cipes",
+                    "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Greg_Cipes_by_Gage_Skidmore.jpg/800px-Greg_Cipes_by_Gage_Skidmore.jpg"
+                  },
+                  {
+                    "name":"Scott Menville ",
+                    "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Scott_Menville_by_Gage_Skidmore.jpg/220px-Scott_Menville_by_Gage_Skidmore.jpg"
+                  },{
+                    "name":"Khary Payton ",
+                    "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2020-02-23_11-14-08_ILCE-6500_DSC05103_DxO_%2849660411378%29_%28Cropped%29.jpg/220px-2020-02-23_11-14-08_ILCE-6500_DSC05103_DxO_%2849660411378%29_%28Cropped%29.jpg"
+                  }
+        ]
   },
   {
     "_id":"3",
@@ -136,7 +171,24 @@
                       "Acotors":"",
                       "Story_by":"Joe Ruby Ken Spears"
                     }
-                  ]
+                  ],
+        "cast":[
+                    {
+                      "name":"Frank Welker ",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frank_Welker_Photo_Op_GalaxyCon_Richmond_2020.jpg/220px-Frank_Welker_Photo_Op_GalaxyCon_Richmond_2020.jpg "
+                    },
+                    {
+                      "name":"Don Messick",
+                      "thumb":"https://m.media-amazon.com/images/M/MV5BMzYxMmQ2MTItZGE4OC00Y2RkLTlmYTYtYTJlYTg0NzY2ZDc4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY1200_CR66,0,630,1200_AL_.jpg"
+                    },
+                    {
+                      "name":" Casey Kasem ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/10939/10939_v9_ba.jpg"
+                    },{
+                      "name":"Heather North",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Heather_North_in_Gidget_1965.jpg"
+                    }
+                ]
   },
   {
     "_id":"4",
@@ -182,7 +234,24 @@
                       "Acotors":"Bruce Wills, Camila, Shune",
                       "Story_by":"Joe Carnahan."
                     }
-                  ]
+                  ],
+        "cast":[
+                    {
+                      "name":"Bruce Willis",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/9653/9653_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Camila Morrone",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/1073970/1073970_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Elisabeth Shue",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/1620/1620_v9_bb.jpg"
+                    },{
+                      "name":"Vincent D'Onofrio",
+                      "thumb":"https://vignette.wikia.nocookie.net/interrogation-cbs/images/f/f3/Vincent_D%27Onofrio.jpg/revision/latest?cb=20200204152739"
+                    }
+              ]
   },
   {
     "_id":"5",
@@ -229,8 +298,25 @@
                       "Acotors":"Anthony Gonzalez, Gael García Bernal,  Benjamin Bratt, Alanna Ubach",
                       "Story_by":"Lee Unkrich, Jason Katz"
                     }
+                  ],
+          "cast":[
+                    {
+                      "name":"Anthony Gonzalez ",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/2/25/Anthony_Gonzales_on_Dulce_Osuna.jpg "
+                    },
+                    {
+                      "name":"Gael García Bernal",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/163723/163723_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Benjamin Bratt ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/71133/71133_v9_bb.jpg"
+                    },{
+                      "name":"Alanna Ubach",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/68907/68907_v9_bb.jpg"
+                    }
                   ]
-  },
+  }, 
   {
     "_id":"6",
     "name":"The Dark Knight Rises",
@@ -275,7 +361,24 @@
                       "Acotors":"Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway",
                       "Story_by":"Christopher Nolan,David S. Goyer."
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Tom Hardy",
+                        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Hardy_by_Gage_Skidmore.jpg/220px-Tom_Hardy_by_Gage_Skidmore.jpg"
+                    },
+                    {
+                      "name":"Anne Hathaway",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anne_Hathaway_in_2017.png/220px-Anne_Hathaway_in_2017.png"
+                    },
+                    {
+                      "name":"Joseph Gordon-Levitt",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg/235px-Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg"
+                    },{
+                      "name":"Marion Cotillard",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Marion_Cotillard_C%C3%A9sar_2018.jpg/220px-Marion_Cotillard_C%C3%A9sar_2018.jpg"
+                    }
+                 ]
   }, 
   {
     "_id":"7",
@@ -325,7 +428,24 @@
                       "Acotors":"Song Kang-ho,Jo Jung-suk,Bae Doona",
                       "Story_by":"Joe Carnahan."
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Song Kang-ho",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/289863/289863_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Bae Doona",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/326663/326663_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Jo Jung-suk",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jo_Jung-suk_in_May_2019.jpg/220px-Jo_Jung-suk_in_May_2019.jpg"
+                    },{
+                      "name":"Kim So-jin ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/1113088/1113088_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"8",
@@ -371,7 +491,24 @@
                       "Acotors":"Will Smith,Martin Lawrence,Paola Núñe,Vanessa Hudgens",
                       "Story_by":"Peter Craig,Joe Carnahan"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Will Smith",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/1650/1650_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Martin Lawrence",
+                      "thumb":"https://vignette.wikia.nocookie.net/badboysfranchise/images/d/df/Martin_Lawrence.jpg/revision/latest?cb=20200329210908"
+                    },
+                    {
+                      "name":"Vanessa Hudgens",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/285957/285957_v9_bb.jpg"
+                    },{
+                      "name":"Alexander Ludwig",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/503860/503860_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"9",
@@ -417,7 +554,24 @@
                       "Acotors":"Naomie Harris,Tyrese Gibson,Frank Grillo,Mike Colter",
                       "Story_by":"Peter A. Dowling"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Naomie Harris ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/265396/265396_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Tyrese Gibson",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/200301/200301_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Frank Grillo",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/257236/257236_v9_ba.jpg"
+                    },{
+                      "name":"Mike Colter",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/259205/259205_v9_bc.jpg"
+                    }
+                 ]
   },
   {
     "_id":"10",
@@ -471,7 +625,24 @@
                       "Acotors":"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans",
                       "Story_by":"Christopher Markus,Stephen McFeely"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Elizabeth Olsen",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/620481/620481_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Josh Brolin",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/74371/74371_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Peter Dinklage",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/299302/299302_v9_bb.jpg"
+                    },{
+                      "name":"Tom Holland",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/733885/733885_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"11",
@@ -521,7 +692,24 @@
                       "Acotors":"Meryl Streep, Emily Blunt, James Corden Anna Kendrick",
                       "Story_by":"James Lapine"  
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Meryl Streep",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/45093/45093_v9_bc.jpg "
+                    },
+                    {
+                      "name":"Anna Kendrick",
+                      "thumb":"https://static.wikia.nocookie.net/trolls/images/4/4c/Anna_Kendrick.jpg/revision/latest?cb=20200414192728"
+                    },
+                    {
+                      "name":"Emily Blunt ",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/313819/313819_v9_ba.jpg"
+                    },{
+                      "name":"James Corden",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/237929/237929_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"12",
@@ -575,7 +763,24 @@
                       "Acotors":"Chris Evans,Tommy Lee Jones,Hugo Weaving,Hayley Atwell",
                       "Story_by":"Christopher Markus,Stephen McFeely"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Chris Evans ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/173489/173489_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Hayley Atwell",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/506300/506300_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Sebastian Stan",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/490465/490465_v9_bb.jpg"
+                    },{
+                      "name":"Hugo Weaving",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/27163/27163_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"13",
@@ -633,7 +838,24 @@
                       "Acotors":"Dwayne Johnson,Jack Black,Kevin Hart,Karen Gillan",
                       "Story_by":"Chris McKenna"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Dwayne Johnson",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/235135/235135_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Karen Gillan",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/572089/572089_v9_bc.jpg"
+                    },
+                    {
+                      "name":"Kevin Hart",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/108359/108359_v9_bc.jpg"
+                    },{
+                      "name":"Jack Black",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/71804/71804_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"14",
@@ -683,7 +905,24 @@
                       "Acotors":"Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison",
                       "Story_by":"Rhett Reese,Paul Wernick,Ryan Reynolds"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Ryan Reynolds ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/57282/57282_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Josh Brolin",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/74371/74371_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Zazie Beetz",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/66/Zazie_Beetz_by_Gage_Skidmore_%28cropped%29.jpg"
+                    },{
+                      "name":"Morena Baccarin",
+                      "thumb":"https://static.wikia.nocookie.net/ocwikia/images/d/d3/Morena_Baccarin.jpg/revision/latest?cb=20200421081704"
+                    }
+                 ]
   },
   {
     "_id":"15",
@@ -725,7 +964,25 @@
                       "Acotors":"Riteish Deshmukh, Vivek Oberoi, Rhea Chakraborty,Baba Sehgal",
                       "Story_by":"Baljeet Singh Marwah,Bumpy"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Rhea Chakraborty",
+                        "thumb":"https://images.news18.com/ibnlive/uploads/2020/08/1597217213_rhea-chakraborty-3.jpg "
+                    },
+                    {
+                      "name":"Riteish Deshmukh",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/324101/324101_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Vivek Oberoi",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/261726/261726_v9_ba.jpg"
+                    },{
+                      "name":"Sahil Vaid",
+                      "thumb":"https://m.media-amazon.com/images/M/MV5BMGJlNzI3NjQtYWI1Yy00NzRmLTgzNjMtZjFmMDIwOTk5ZDFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY1200_CR584,0,630,1200_AL_.jpg"
+                    }
+
+                 ]
   },
   {
     "_id":"16",
@@ -771,7 +1028,24 @@
                       "Acotors":"Chris Hemsworth,Tessa Thompson,Rebecca Ferguson,Kumail Nanjiani",
                       "Story_by":"Art Marcum,Matt Holloway"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Chris Hemsworth",
+                        "thumb":" https://www.gstatic.com/tv/thumb/persons/528854/528854_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Tessa Thompson",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tessa_Thompson_by_Gage_Skidmore_3.jpg/1200px-Tessa_Thompson_by_Gage_Skidmore_3.jpg"
+                    },
+                    {
+                      "name":"Kumail Nanjiani",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/543607/543607_v9_ba.jpg"
+                    },{
+                      "name":"Emma Thompson",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/19595/19595_v9_bd.jpg"
+                    }
+                 ]
   },
   {
     "_id":"17",
@@ -821,7 +1095,24 @@
                       "Acotors":"Robert Redford",
                       "Story_by":"J. C. Chandor"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Evangeline Lilly ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/292093/292093_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Jorge Garcia",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/269465/269465_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Josh Holloway",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/221560/221560_v9_ba.jpg"
+                    },{
+                      "name":"Matthew Fox",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/74454/74454_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"18",
@@ -863,7 +1154,24 @@
                       "Acotors":"Anushka Shet,Jayaram,Unni Mukundan,Asha Sarath",
                       "Story_by":"G.Ashok"
                     }
-                  ]
+                  ],
+          "caste":[
+                   {
+                     "name":"Anushka Shetty",
+                     "thumb":"https://www.gstatic.com/tv/thumb/persons/524682/524682_v9_ba.jpg"
+                   },
+                   {
+                    "name":"Unni Mukundan",
+                    "thumb":"https://m.media-amazon.com/images/M/MV5BN2E4MDQ2OTMtMzllMy00OWIwLTgxYTktOTZiODAwYmU5NWQzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+                  },
+                  {
+                    "name":"Asha Sharath",
+                    "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Asha_Sarath.jpg"
+                  },{
+                    "name":"Jayaram",
+                    "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/06/Jayaram_2008.jpg"
+                  }
+          ]
   },
   {
     "_id":"19",
@@ -913,7 +1221,24 @@
                       "Acotors":"Michael Peña,Maggie Q,Lucy Hale,Austin Stowell",
                       "Story_by":"Jeff Wadlow,Chris Roach,Jillian Jacobs"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Lucy Hale ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/499956/499956_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Michael Peña",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/208373/208373_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Maggie Q",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/253322/253322_v9_ba.jpg"
+                    },{
+                      "name":"Austin Stowell",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/589455/589455_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"20",
@@ -955,7 +1280,24 @@
                       "Acotors":"Ravi Babu,Neha Chauhan ",
                       "Story_by":"Ravi Babu"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Neha Chauhan ",
+                        "thumb":" https://m.media-amazon.com/images/M/MV5BMDIyMzQ2MTYtYTcwNS00ZjM5LWIzOGUtZTBlODQxMWI0NGJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+                    },
+                    {
+                      "name":"Ravi Babu",
+                      "thumb":"https://m.media-amazon.com/images/M/MV5BNjlhNTg4ZGYtZWRhZi00NWQ4LTg0YjctOGJjYTlkNzNhYzQ3XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                    },
+                    {
+                      "name":"Priya Vadlamani",
+                      "thumb":"https://m.media-amazon.com/images/M/MV5BMTk2MTQxMDEtNWU5OS00NzZjLTkwNDAtMWI0ZTMzZTNhMTBiXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_.jpg"
+                    },{
+                      "name":"Sri Muktha",
+                      "thumb":"https://www.filmibeat.com/img/popcorn/profile_photos/sri-muktha-20191031124255-45791.jpg"
+                    }
+                 ]
   },
   {
     "_id":"21",
@@ -997,7 +1339,24 @@
                       "Acotors":"Tania Raymonde",
                       "Story_by":"Dirk Blackman"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Tania Raymonde",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/269815/269815_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Reina Aoi",
+                      "thumb":"https://i.mydramalist.com/Bx3OVc.jpg"
+                    },
+                    {
+                      "name":"Nathaniel Buzolic",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/695863/695863_v9_bb.jpg"
+                    },{
+                      "name":"Emerson Brooks",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/504473/504473_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"22",
@@ -1043,7 +1402,24 @@
                       "Acotors":"Udhayanidhi Stalin,Aditi Rao Hydari, Nithya Menen,Rajkumar Pitchumani",	
                       "Story_by":"Mysskin"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Udhayanidhi Stalin",
+                        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Udhaya.jpg/220px-Udhaya.jpg "
+                    },
+                    {
+                      "name":"Aditi Rao Hydari",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aditi_Rao_Hydari_on_NDTV%E2%80%99s_show_%E2%80%98Ticket_To_Bollywood%E2%80%99.jpg/220px-Aditi_Rao_Hydari_on_NDTV%E2%80%99s_show_%E2%80%98Ticket_To_Bollywood%E2%80%99.jpg"
+                    },
+                    {
+                      "name":"Nithya Menen",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nithya_Menen_at_SIIMA_2016.jpg/800px-Nithya_Menen_at_SIIMA_2016.jpg"
+                    },{
+                      "name":"Rajkumar Pitchumani",
+                      "thumb":"https://www.behindwoods.com/tamil-movies-cinema-news-16/images/mysskin-s-psycho-villain-rajkumar-pitchumani-reveals-unknown-shoot-stories-ft-udhayanidhi-photos-pictures-stills.jpg"
+                    }
+                 ]
   },
   {
     "_id":"23",
@@ -1089,7 +1465,24 @@
                       "Acotors":"Tovino Thomas,Mamta Mohandas",
                       "Story_by":"Akhil Paul-Anas Khan"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Mamtha Mohandas ",
+                        "thumb":"https://static.toiimg.com/thumb/61415750.cms?width=170&height=240 "
+                    },
+                    {
+                      "name":"Reba Monica John",
+                      "thumb":"https://nettv4u.com/imagine/24-07-2019/reba-monica-john.jpg"
+                    },
+                    {
+                      "name":"Tovino Thomas",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg"
+                    },{
+                      "name":"Giju John",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Giju_John.jpg"
+                    }
+                 ]
   },
   {
     "_id":"24",
@@ -1135,7 +1528,24 @@
                       "Acotors":" Andrea Riseborough, Demián Bichir,John Cho, Betty Gilpin",	
                       "Story_by":" Nicolas Pesce,Jeff Buhler"	  
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Takako Fuji",
+                        "thumb":"https://m.media-amazon.com/images/M/MV5BMzMxNzEwOTg4NV5BMl5BanBnXkFtZTcwNDAxMTQyOA@@._V1_UY1200_CR147,0,630,1200_AL_.jpg "
+                    },
+                    {
+                      "name":"Takashi Matsuyama",
+                      "thumb":"https://vignette.wikia.nocookie.net/powerrangers/images/d/d4/Takashi_Matsuyama.jpg/revision/latest/top-crop/width/360/height/360?cb=20181028031415"
+                    },
+                    {
+                      "name":"Megumi Okina",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/301033/301033_v9_ba.jpg"
+                    },{
+                      "name":"Yūrei Yanagi",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/244937/244937_v9_aa.jpg"
+                    }
+                 ]
   },
   {
     "_id":"25",
@@ -1181,7 +1591,24 @@
                       "Acotors":" Chris Hemsworth, Rudhraksh Jaiswal,Randeep Hooda,Golshifteh Farahani",	
                       "Story_by":" Ande Parks,Joe Russo,Anthony Russo"	
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Chris Hemsworth ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/528854/528854_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Golshifteh Farahani",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/507096/507096_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Randeep Hooda",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/252836/252836_v9_ba.jpg"
+                    },{
+                      "name":"Sam Hargrave",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/578092/578092_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"26",
@@ -1223,7 +1650,24 @@
                       "Acotors":"Kristen Stewart, Vincent Cassel,Jessica Henwick,John Gallagher Jr.",	
                      "Story_by":"Brian Duffield"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Kristen Stewart",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/249613/249613_v9_bc.jpg "
+                    }, 
+                     {
+                      "name":"T.J. Miller",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/508013/508013_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Vincent Cassel",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/75987/75987_v9_bb.jpg"
+                    },{
+                      "name":"Jessica Henwick",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/864783/864783_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"27",
@@ -1265,7 +1709,24 @@
                       "Acotors":"Tiger Shroff,Jacqueline Fernandez,Nathan Jones",
                       "Story_by":"Remo D'Souza"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Tiger Shroff ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/783224/783224_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Jacqueline Fernandez",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/657700/657700_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Nathan Jones",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/308491/308491_v9_ba.jpg"
+                    },{
+                      "name":"Amrita Singh",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/221710/221710_v9_aa.jpg"
+                    }
+                 ]
   },
   {
     "_id":"28",
@@ -1311,7 +1772,24 @@
                       "Acotors":"Jamie Bell Andy Serkis Daniel Craig",
                       "Story_by":"Steven Moffat, Edgar Wright ,Joe Cornish"
                     }
-                  ]
+                  ],
+            "cast":[
+                    {
+                        "name":"Jamie Bell ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/221443/221443_v9_bb.jpg "
+                    },
+                    {
+                      "name":"Daniel Craig",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/77711/77711_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Andy Serkis",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/85991/85991_v9_bb.jpg"
+                    },{
+                      "name":"Simon Pegg",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/225908/225908_v9_ba.jpg"
+                    }
+                 ]
   },
   {
     "_id":"29",
@@ -1366,7 +1844,24 @@
                       "Acotors":"Donald Glover ,Seth Rogen Chiwetel, EjioforAlfre Woodard",
                       "Story_by":"Jeff Nathanson"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Beyoncé ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/221587/221587_v9_bc.jpg "
+                    },
+                    {
+                      "name":"Donald Glover",
+                      "thumb":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Donald_Glover_TIFF_2015.jpg"
+                    },
+                    {
+                      "name":"James Earl Jones",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/864/864_v9_ba.jpg"
+                    },{
+                      "name":"Seth Rogen",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/167023/167023_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"30",
@@ -1404,7 +1899,24 @@
                       "Acotors":"Rayn potter, Chris Williams, Scott Adist",
                       "Story_by":"Don Hall, Chris Williams"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Ryan Potter ",
+                        "thumb":" https://www.gstatic.com/tv/thumb/persons/605176/605176_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Jamie Chung",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/511530/511530_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Genesis Rodriguez",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/625678/625678_v9_bb.jpg"
+                    },{
+                      "name":"Scott Adsit",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/240366/240366_v9_bb.jpg"
+                    }
+                 ]
   },
   {
     "_id":"31",
@@ -1450,7 +1962,21 @@
                       "Acotors":"Jeff Garlin, Angus MacLane, Tessa Swigart",
                       "Story_by":"Pixar"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Jeff Garlin ",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/193836/193836_v9_ba.jpg "
+                    },
+                    {
+                      "name":"Angus MacLane",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/674445/674445_v9_ba.jpg"
+                    },
+                    {
+                      "name":"Tessa Swigart",
+                      "thumb":"https://www.developmentmedia.net/uploads/9/0/0/3/90035669/published/tessaswigart.jpg?1536072166"
+                    }
+                 ]
   },
   {
     "_id":"32",
@@ -1504,7 +2030,24 @@
                       "Acotors":"Bruce Wills, Camila, Shune",
                       "Story_by":"Emma Stone, Breslin, Harrelson, Eisenberg"
                     }
-                  ]
+                  ],
+          "cast":[
+                    {
+                        "name":"Emma Stone",
+                        "thumb":"https://www.gstatic.com/tv/thumb/persons/501536/501536_v9_bb.jpg"
+                    },
+                    {
+                      "name":"Abigail Breslin",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/259171/259171_v9_fa.jpg"
+                    },
+                    {
+                      "name":"Woody Harrelson",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/733/733_v9_bc.jpg"
+                    },{
+                      "name":"Jesse Eisenberg",
+                      "thumb":"https://www.gstatic.com/tv/thumb/persons/205764/205764_v9_ba.jpg"
+                    }
+                 ]
   }
 
 ]
