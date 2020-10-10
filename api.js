@@ -111,9 +111,11 @@ app.delete('/deletebookings',(req,res)=>{
         if(err) throw err;
         res.send('Booking canceled')
     })
-})
+});
+
+
 //Database connection
-MongoClient.connect(db_url,(err,connection)=>{
+MongoClient.connect(db_url, { useUnifiedTopology: true },(err,connection)=>{
     if(err) throw err;
     db = connection.db('Movies');
     app.listen(port,(err)=>{
