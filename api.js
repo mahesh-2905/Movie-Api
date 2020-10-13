@@ -21,10 +21,10 @@ app.get('/healthcheck',(req,res)=>{
     res.send("API is working");
 });
 
-//API's List
-// app.get('/',(req,res)=>{
-//     res.render('index')
-// })
+// API's List
+app.get('/',(req,res)=>{
+    res.render('index')
+})
 
 //Movies List
 app.get('/movies',(req,res)=>{
