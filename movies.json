@@ -24,20 +24,25 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
+    "type":[
+              {
+                "movietype":"latest"
+              }
+            ],
     "description":[
                     {
                       "Director‎":"‎Ryan Coogler",
@@ -92,17 +97,17 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"6",
+                "moviegenre":"6",
                 "name":"Animation"
               },     
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               }
            ],
@@ -155,16 +160,21 @@
                     "name":"Telugu"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"6",
+                "moviegenre":"6",
                 "name":"Animation"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Joe Ruby Ken Spears",
@@ -214,17 +224,17 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               }
            ],
@@ -278,20 +288,25 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Lee Unkrich",
@@ -345,16 +360,21 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Christopher Nolan",
@@ -408,20 +428,25 @@
                     "name":"Telugu"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               },
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               }
            ],
+    "type":[
+            {
+              "movietype":"latest"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Woo Min-ho",
@@ -475,13 +500,13 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               }
            ],
@@ -538,16 +563,21 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Deon Taylor",
@@ -605,20 +635,25 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
+    "type":[
+            {
+              "movietype":"latest"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Anthony Russo,Joe Russo",
@@ -672,17 +707,17 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               },
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               }
            ],
@@ -743,17 +778,17 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
@@ -814,24 +849,29 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Jake Kasdan",
@@ -885,20 +925,25 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"David Leitch",
@@ -948,16 +993,21 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
+    "type":[
+            {
+              "movietype":"latest"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Bumpy",
@@ -1008,17 +1058,17 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
@@ -1071,21 +1121,21 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
@@ -1138,14 +1188,19 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
+              }
+           ],
+    "type":[
+              {
+                "movietype":"latest"
               }
            ],
     "description":[
@@ -1201,20 +1256,25 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Jeff Wadlow",
@@ -1264,14 +1324,19 @@
                     "name":"Telugu"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               },
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
+              }
+           ],
+    "type":[
+              {
+                "movietype":"latest"
               }
            ],
     "description":[
@@ -1323,13 +1388,13 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               }
            ],
@@ -1382,20 +1447,25 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Mysskin",
@@ -1449,16 +1519,21 @@
                     "name":"Telugu"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"4",
+                "moviegenre":"4",
                 "name":"Crime"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"Akhil Paul & Anas Khan‎",
@@ -1512,13 +1587,13 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               }
            ],
@@ -1571,20 +1646,25 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               }
            ],
+    "type":[
+              {
+                "movietype":"latest"
+              }
+            ],
     "description":[
                     {
                       "Director‎":"Sam Hargrave",
@@ -1634,13 +1714,13 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"5",
+                "moviegenre":"5",
                 "name":"Thriller"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               }
            ],
@@ -1693,14 +1773,19 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"6",
+                "moviegenre":"6",
                 "name":"Animation"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
+              }
+           ],
+    "type":[
+              {
+                "movietype":"latest"
               }
            ],
     "description":[
@@ -1752,17 +1837,17 @@
                     "name":"Hindi"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"6",
+                "moviegenre":"6",
                 "name":"Animation"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               }
            ],
@@ -1819,24 +1904,29 @@
                     "name":"Telugu"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
               
+           ],
+    "type":[
+              {
+                "movietype":"latest"
+              }
            ],
     "description":[
                     {
@@ -1883,16 +1973,21 @@
                     "name":"English"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               },
               {
-                "movietype":"9",
+                "moviegenre":"9",
                 "name":"Comedy"
               }
            ],
+   "type":[
+            {
+              "movietype":"latest"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎ Don Hall, Chris Williams",
@@ -1942,17 +2037,17 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"3",
+                "moviegenre":"3",
                 "name":"Fantasy"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               }
            ],
@@ -2006,24 +2101,29 @@
                     "name":"Korean"
                   }
                 ],
-    "type":[
+    "genre":[
               {
-                "movietype":"1",
+                "moviegenre":"1",
                 "name":"Action"
               },
               {
-                "movietype":"2",
+                "moviegenre":"2",
                 "name":"Adventure"
               },
               {
-                "movietype":"7",
+                "moviegenre":"7",
                 "name":"Family"
               },
               {
-                "movietype":"8",
+                "moviegenre":"8",
                 "name":"Horror"
               }
            ],
+    "type":[
+            {
+              "movietype":"upcoming"
+            }
+          ],
     "description":[
                     {
                       "Director‎":"‎Ruben Fleischer",
