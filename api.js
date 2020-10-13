@@ -22,9 +22,9 @@ app.get('/healthcheck',(req,res)=>{
 });
 
 //API's List
-app.get('/',(req,res)=>{
-    res.render('index')
-})
+// app.get('/',(req,res)=>{
+//     res.render('index')
+// })
 
 //Movies List
 app.get('/movies',(req,res)=>{
@@ -33,7 +33,7 @@ app.get('/movies',(req,res)=>{
         query = {ratings:{$gt:parseFloat(req.query.rgt),$lt:parseFloat(req.query.rlt)}};
     }
     else if(req.query.movietype){
-        query={"type.movietype":req.query.movietype};
+        query={"genre.moviegenre":req.query.movietype};
     }
     else if(req.query.language){
         query= {"languages.language":req.query.language};
@@ -49,7 +49,7 @@ app.get('/movies',(req,res)=>{
 
 //Latest movies List
 app.get('/latest',(req,res)=>{
-    db.collection('latestmovies').find({}).toArray((err,result)=>{
+    db.collection('movies').find({"type.movietype":"latest"}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
@@ -57,7 +57,7 @@ app.get('/latest',(req,res)=>{
 
 //Upcoming movies List
 app.get('/upcoming',(req,res)=>{
-    db.collection('upcomingmovies').find({}).toArray((err,result)=>{
+    db.collection('movies').find({"type.movietype":"upcoming"}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
