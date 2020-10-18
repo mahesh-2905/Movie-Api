@@ -48,16 +48,36 @@ app.get('/movies',(req,res)=>{
 });
 
 //Latest movies List
-app.get('/latest',(req,res)=>{
-    db.collection('movies').find({"type.movietype":"latest"}).toArray((err,result)=>{
+app.get('/movies/:latest',(req,res)=>{
+    var query = {}
+    if(req.query.lang){
+        query={"languages.language":req.query.lang,"type.movietype":req.params.latest}
+    }
+    if(req.query.lcost && req.query.hcost){
+        query={"type.movietype":req.params.latest,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
+    }
+    else{
+        query={"type.movietype":req.params.latest}
+    }
+    db.collection('movies').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
 });
 
 //Upcoming movies List
-app.get('/upcoming',(req,res)=>{
-    db.collection('movies').find({"type.movietype":"upcoming"}).toArray((err,result)=>{
+app.get('/movies/:upcoming',(req,res)=>{
+    var query = {}
+    if(req.query.lang){
+        query={"languages.language":req.query.lang,"type.movietype":req.params.upcoming}
+    }
+    if(req.query.lcost && req.query.hcost){
+        query={"type.movietype":req.params.upcoming,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
+    }
+    else{
+        query={"type.movietype":req.params.upcoming}
+    }
+    db.collection('movies').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
@@ -80,7 +100,7 @@ app.get('/movielang',(req,res)=>{
 });
 
 //Movie details
-app.get('/movies/:id',(req,res)=>{
+app.get('/movie/:id',(req,res)=>{
     db.collection('movies').find({_id:req.params.id}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
