@@ -53,7 +53,7 @@ app.get('/movies/:latest',(req,res)=>{
     if(req.query.lang){
         query={"languages.language":req.query.lang,"type.movietype":req.params.latest}
     }
-    if(req.query.lcost && req.query.hcost){
+    else if(req.query.lcost && req.query.hcost){
         query={"type.movietype":req.params.latest,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
     }
     else{
@@ -71,7 +71,7 @@ app.get('/movies/:upcoming',(req,res)=>{
     if(req.query.lang){
         query={"languages.language":req.query.lang,"type.movietype":req.params.upcoming}
     }
-    if(req.query.lcost && req.query.hcost){
+    else if(req.query.lcost && req.query.hcost){
         query={"type.movietype":req.params.upcoming,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
     }
     else{

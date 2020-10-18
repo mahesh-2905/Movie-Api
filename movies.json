@@ -1,4 +1,4 @@
-db.movies.insertMany(
+
 [
   {
     "_id":"1",
@@ -2151,6 +2151,6 @@ db.movies.insertMany(
   }
 
 ]
-)
+
 
 
