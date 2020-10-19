@@ -77,6 +77,9 @@ app.get('/movies/:upcoming',(req,res)=>{
     else if(req.query.lcost && req.query.hcost){
         query={"type.movietype":req.params.upcoming,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
     }
+    else if(req.query.lr && req.query.hr){
+        query={"type.movietype":req.params.upcoming,ratings:{$lte:Number(req.query.hr),$gte:Number(req.query.lr)}}
+    }
     else{
         query={"type.movietype":req.params.upcoming}
     }
