@@ -71,17 +71,48 @@ app.get('/movies/:latest',(req,res)=>{
 //Upcoming movies List
 app.get('/movies/:upcoming',(req,res)=>{
     var query = {}
-    if(req.query.lang){
+    
+     if(req.query.lang){
         query={"languages.language":req.query.lang,"type.movietype":req.params.upcoming}
     }
-    else if(req.query.lcost && req.query.hcost){
-        query={"type.movietype":req.params.upcoming,cost:{$lt:Number(req.query.hcost),$gt:Number(req.query.lcost)}}
-    }
+    
     else if(req.query.lr && req.query.hr){
         query={"type.movietype":req.params.upcoming,ratings:{$lte:Number(req.query.hr),$gte:Number(req.query.lr)}}
     }
     else{
         query={"type.movietype":req.params.upcoming}
+    }
+    db.collection('movies').find(query).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+
+//Upcoming Movie genre 
+app.get('/:upcomingmovies',(req,res)=>{
+    var query = {}
+    if(req.query.genre && req.params.upcomingmovies){
+        query={"type.movietype":req.params.upcomingmovies,"genre.moviegenre":req.query.genre}
+    }
+    else{
+        query={"type.movietype":"upcoming"}
+    }
+    db.collection('movies').find(query).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
+//Upcoming Movie genre 
+
+app.get('/:latestmovies',(req,res)=>{
+    var query = {}
+    if(req.query.genre){
+        query={"type.movietype":req.params.latestmovies,"genre.moviegenre":req.query.genre}
+    }
+    else{
+        query={"type.movietype":"latest"}
     }
     db.collection('movies').find(query).toArray((err,result)=>{
         if(err) throw err;
