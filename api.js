@@ -147,7 +147,7 @@ app.get('/movie/:id',(req,res)=>{
 
 //Get bookings
 app.get('/bookings/:id',(req,res)=>{
-   var query={name:req.params.id}
+   var query={fullname:req.params.id}
     db.collection('bookings').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
