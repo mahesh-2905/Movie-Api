@@ -2,6 +2,7 @@ const express = require('express');
 const mongo = require('mongodb');
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const { query } = require('express');
 
 const app = express();
 const MongoClient = mongo.MongoClient;
@@ -145,8 +146,9 @@ app.get('/movie/:id',(req,res)=>{
 });
 
 //Get bookings
-app.get('/bookings',(req,res)=>{
-    db.collection('bookings').find({}).toArray((err,result)=>{
+app.get('/bookings/:id',(req,res)=>{
+   var query={name:req.params.id}
+    db.collection('bookings').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
     });
@@ -155,7 +157,7 @@ app.get('/bookings',(req,res)=>{
 //Post Bookings
 app.post('/bookings',(req,res)=>{
     var data = req.body;
-    db.collection('bookings').insert(data,(err)=>{
+    db.collection('bookings').insertOne(data,(err)=>{
         if(err) throw err;
         res.send("booking sucessfull");
     });
