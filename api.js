@@ -147,10 +147,25 @@ app.get('/movie/:id',(req,res)=>{
 
 //Get bookings
 app.get('/bookings/:id',(req,res)=>{
-   var query={fullname:req.params.id}
+    var query;
+    if(req.params.id){
+       query={fullname:req.params.id}
+    }
+    else{
+        query={}
+    }
     db.collection('bookings').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result);
+    });
+});
+
+//Post Bookings
+app.post('/addmovies',(req,res)=>{
+    var data = req.body;
+    db.collection('movies').insertOne(data,(err)=>{
+        if(err) throw err;
+        res.send("Movie Added ");
     });
 });
 
