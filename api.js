@@ -160,6 +160,14 @@ app.get('/bookings/:id',(req,res)=>{
     });
 });
 
+app.get('/allbookings',(req,res)=>{
+    
+    db.collection('bookings').find().toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result);
+    });
+});
+
 //Post Bookings
 app.post('/addmovies',(req,res)=>{
     var data = req.body;
